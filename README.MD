@@ -1,5 +1,5 @@
-# Animazing Sagiri Bot
-(May 14 2020)
+# Megurine Luka
+(July 11 2020)
 **Version 1.2.0**
 
 ![](image.png)
@@ -12,11 +12,10 @@ i used to test around with Commands and stuff
 Config:
 ```
 {
-  "botName": "",
+  "botName": "Luka Megurine",
   "discord_token": "",
-  "prefix": "",
-  "adminRoleName": "Discord Admin",
-  "actionChannel": "" 
+  "prefix": "lm>",
+  "adminRoleName": "Discord Admin"
 }
 ```
 Console:
