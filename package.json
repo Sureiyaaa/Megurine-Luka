@@ -22,7 +22,7 @@
     "dblapi.js": "^2.3.0",
     "discord.js": "^11.5.1",
     "dotenv": "^8.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "^0.0.2",
     "get-youtube-id": "^1.0.1",
     "http": "^0.0.0",
